@@ -5,8 +5,8 @@ Web scraping with Python allows you to efficiently find and extract data from nu
 By incorporating libraries like 'asyncio' and 'aiohttp,' you can significantly speed up your program.
 
 <b>Used Modules:</b>
-Requests
-BeautifulSoup #Tool allow us to parse HTML code
+Requests <br>
+BeautifulSoup #Tool allow us to parse HTML code<br>
 Time
 
 Special Thanks to BranDon for Help!
